@@ -1,4 +1,6 @@
 # cv-project
 First roadmap project.
-https://kindawest.github.io/cv-project/
-https://roadmap.sh/projects/single-page-cv
+## Project URL 
+[Live Site] (https://kindawest.github.io/cv-project/)
+## Roadmap Project
+[Roadmap.sh project] (https://roadmap.sh/projects/single-page-cv)
